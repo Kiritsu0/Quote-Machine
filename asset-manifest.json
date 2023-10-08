@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/http//Kiritsu0.github.io/Quote-Machine/static/css/main.ca3b7e3d.css",
+    "main.js": "/http//Kiritsu0.github.io/Quote-Machine/static/js/main.aec0e2a0.js",
+    "index.html": "/http//Kiritsu0.github.io/Quote-Machine/index.html",
+    "main.ca3b7e3d.css.map": "/http//Kiritsu0.github.io/Quote-Machine/static/css/main.ca3b7e3d.css.map",
+    "main.aec0e2a0.js.map": "/http//Kiritsu0.github.io/Quote-Machine/static/js/main.aec0e2a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca3b7e3d.css",
+    "static/js/main.aec0e2a0.js"
+  ]
+}
