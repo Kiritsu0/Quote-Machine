@@ -1,0 +1,78 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 2s;
+}
+
+#quote-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+    background-color: #fff;
+    padding: 2.5rem;
+    font-size: 2rem;
+    max-width: 35rem;
+    text-align: center;
+    border-radius: 5px;
+}
+
+#text {
+    transition: 2s;
+}
+
+#quote-box i {
+    align-self: flex-end;
+    font-size: 1.2rem;
+    font-weight: 50;
+    transition: 2s;
+}
+
+#quote-box i::before {
+    content: '- ';
+}
+
+#links_button {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#new-quote {
+    padding: 10px;
+    font-size: 0.9rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 280px;
+    color: #fff;
+    transition: 2s;
+}
+
+.share {
+    border-radius: 5px;
+    margin-left: 10px;
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    color: #fff;
+    transition: 2s;
+}
+
+#quote-icon {
+    margin-right: 15px;
+    font-size: 1.8rem;
+}
+
